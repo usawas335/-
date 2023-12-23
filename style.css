@@ -1,0 +1,33 @@
+header{
+    background: linear-gradient(#508aac, #6fc4c4);
+}
+
+ul{
+    list-style: none;
+    margin: 0;
+    padding: 5px;
+}
+
+a{
+    font-size: 100px;
+    color: rgb(0, 0, 0);
+    text-decoration:;
+}
+
+.box{
+    background: url(../img/keref.jpeg);
+    height: 10px;
+}
+
+main{
+    background: linear-gradient(#59eec9, #6e577ed0);
+
+}
+
+h2{
+    font-size: 100px;
+}
+
+P2{
+    font-size: 40px;
+}
